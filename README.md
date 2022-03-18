@@ -1,1 +1,1 @@
-# Snake_game_JAVA
+The Snake Game 🐍 in Java.
